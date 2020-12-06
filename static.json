@@ -1,7 +1,7 @@
 {
 "headers": {
    "/*" :{
-    "X-Author": "xaitbayevadurdona"
+    "X-Author": "xaitbayevadurdona",
       "Access-Control-Allow-Origin": "*"
     }
    }
